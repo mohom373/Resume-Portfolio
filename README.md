@@ -1,2 +1,2 @@
 # Resume-Portfolio
-My own personal portfolio
+My own personal portfolio project
