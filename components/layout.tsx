@@ -25,6 +25,10 @@ export default function Layout({
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta 
+          name="viewport" 
+          content="minimum-scale=1, initial-scale=1, width=device-width"
+        />
       </Head>
       <header className={styles.header}>
         {home ? (
